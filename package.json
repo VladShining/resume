@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladShining/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "vue",
+    "javascript"
+  ],
+  "author": "nca49",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladShining/resume/issues"
+  },
+  "homepage": "https://github.com/VladShining/resume#readme"
+}
