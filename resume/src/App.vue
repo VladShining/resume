@@ -1,13 +1,8 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
+  import AboutView from './views/AboutView.vue'
 </script>
-
 <template>
-  <div class="main container flexible">
-    <section>
-      <h1>Hello</h1>
-    </section>
-  </div>
+  <AboutView/>
 </template>
 
 <style lang="scss">
